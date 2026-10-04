@@ -1,0 +1,76 @@
+47.84	46.12	
+Phe	UUU 	0.94 (1657) 0.91 (2515)	Ser	UCU*	0.92 (923) 0.22 (643)	
+	UUC 	1.06 (1857) 1.09 (2992)		UCC*	0.95 (953) 0.76 (2199)	
+Leu	UUA 	0.37 (643) 0.62 (1312)		UCA 	1.69 (1696) 2.42 (6996)	
+	UUG 	0.10 (165) 0.99 (2115)		UCG 	0.33 (328) 0.55 (1595)	
+
+	CUU*	2.15 (3693) 0.99 (2116)	Pro	CCU*	1.16 (1148) 0.62 (1652)	
+	CUC*	1.27 (2185) 0.77 (1639)		CCC 	0.51 (499) 0.71 (1901)	
+	CUA 	0.93 (1594) 1.51 (3214)		CCA 	2.00 (1977) 2.22 (5919)	
+	CUG 	1.17 (2010) 1.13 (2400)		CCG 	0.33 (323) 0.44 (1184)	
+
+Ile	AUU*	0.89 (1783) 0.79 (4535)	Thr	ACU*	2.23 (2934) 0.89 (3130)	
+	AUC*	1.22 (2451) 0.84 (4873)		ACC 	0.51 (672) 0.93 (3259)	
+	AUA 	0.89 (1787) 1.37 (7913)		ACA 	1.13 (1483) 2.00 (6998)	
+Met	AUG 	1.00 (3786) 1.00 (5340)		ACG 	0.13 (170) 0.18 (643)	
+
+Val	GUU*	0.69 (959) 0.27 (621)	Ala	GCU*	0.99 (1582) 0.85 (2328)	
+	GUC*	1.14 (1595) 0.96 (2233)		GCC*	0.62 (988) 0.31 (836)	
+	GUA 	0.30 (417) 1.35 (3141)		GCA 	1.85 (2947) 2.48 (6769)	
+	GUG*	1.87 (2611) 1.42 (3282)		GCG*	0.54 (866) 0.36 (968)	
+
+
+Tyr	UAU 	0.22 ( 83) 0.72 (1988)	Cys	UGU 	0.37 (166) 0.80 (3048)	
+	UAC*	1.78 (661) 1.28 (3534)		UGC*	1.63 (737) 1.20 (4544)	
+TER	UAA 	0.00 (  0) 0.04 (  5)	TER	UGA 	2.99 (408) 0.01 (  1)	
+	UAG 	0.01 (  1) 2.96 (403)	Trp	UGG 	0.00 (  0) 0.00 (  0)	
+
+His	CAU*	1.84 (986) 1.08 (2475)	Arg	CGU*	0.52 (651) 0.24 (396)	
+	CAC 	0.16 ( 85) 0.92 (2118)		CGC*	0.63 (792) 0.08 (124)	
+Gln	CAA 	0.34 (652) 1.36 (3290)		CGA 	0.65 (823) 0.77 (1258)	
+	CAG*	1.66 (3205) 0.64 (1542)		CGG*	1.46 (1842) 0.12 (197)	
+
+Asn	AAU*	1.27 (2147) 1.10 (8172)	Ser	AGU*	1.49 (1496) 0.84 (2430)	
+	AAC 	0.73 (1226) 0.90 (6750)		AGC 	0.62 (620) 1.20 (3483)	
+Lys	AAA*	1.47 (3684) 1.07 (5635)	Arg	AGA 	2.40 (3022) 2.35 (3840)	
+	AAG 	0.53 (1343) 0.93 (4917)		AGG 	0.35 (435) 2.44 (3988)	
+
+Asp	GAU*	1.14 (3205) 1.01 (4371)	Gly	GGU*	1.00 (1578) 0.44 (1674)	
+	GAC 	0.86 (2438) 0.99 (4269)		GGC*	0.74 (1163) 0.52 (1994)	
+Glu	GAA 	1.15 (4338) 1.24 (8181)		GGA*	1.99 (3154) 1.47 (5594)	
+	GAG*	0.85 (3228) 0.76 (5004)		GGG 	0.27 (433) 1.57 (6000)	
+
+
+	Number of codons in high bias dataset 93284
+	Number of codons in low  bias dataset 198486
+Note: high bias was assigned to the dataset with the lower average Nc
+Codon UCU (Ser) chi value was 966.985
+Codon UCC (Ser) chi value was 38.308
+Codon UAC (Tyr) chi value was 182.913
+Codon UGC (Cys) chi value was 162.531
+Codon CUU (Leu) chi value was 1134.373
+Codon CCU (Pro) chi value was 342.850
+Codon CAU (His) chi value was 532.599
+Codon CGU (Arg) chi value was 157.132
+Codon CUC (Leu) chi value was 292.963
+Codon CGC (Arg) chi value was 724.085
+Codon CAG (Gln) chi value was 2267.092
+Codon CGG (Arg) chi value was 2056.502
+Codon AUU (Ile) chi value was 26.642
+Codon ACU (Thr) chi value was 1989.325
+Codon AAU (Asn) chi value was 88.377
+Codon AGU (Ser) chi value was 376.671
+Codon AUC (Ile) chi value was 328.075
+Codon AAA (Lys) chi value was 559.967
+Codon GUU (Val) chi value was 403.278
+Codon GCU (Ala) chi value was 27.038
+Codon GAU (Asp) chi value was 52.779
+Codon GGU (Gly) chi value was 682.212
+Codon GUC (Val) chi value was 36.961
+Codon GCC (Ala) chi value was 260.111
+Codon GGC (Gly) chi value was 101.163
+Codon GGA (Gly) chi value was 322.852
+Codon GUG (Val) chi value was 189.179
+Codon GCG (Ala) chi value was 93.254
+Codon GAG (Glu) chi value was 44.605
+
