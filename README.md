@@ -16,7 +16,7 @@ neutrality plots) to characterize the synonymous genomic architecture of H5Nx vi
 ## Repository structure
 
 ```
-H5Nx-codon-architecture/
+H5Nx_codon_architecture/
 ├── README.md
 ├── 1_data/
 │   ├── CAI_results/                   # per-gene CAI values (metadata_CAI.csv and relatives)
@@ -26,7 +26,7 @@ H5Nx-codon-architecture/
 │   ├── HA_structure/                  # Analysis of arginine abundance in H5 HA
 │   ├── Genomic_diversity/             # Files for nucleotide diversity analysis         
 │   ├── Neutrality_results/            # GC123 tables from 3_calculate_codon_GC123.py
-│   └── trees/                         # HA and NA ML trees (.nwk, IQ-TREE, 1,000 UFBoot)
+│   └── Trees/                         # HA and NA ML trees (.nwk, IQ-TREE, 1,000 UFBoot)
 └── 2_scripts/
     ├── 01_data_prep/
     │   ├── NCBI_sequence_prep/               # only for NCBI downloaded data, N/A for GISAID originated data
@@ -43,7 +43,7 @@ H5Nx-codon-architecture/
         ├── fig1_phylo_diversity.R                  # Figure 1A-B
         ├── fig2_correspondence_analysis.R          # Figure 2A-C
         ├── fig3_rscu_ha.R                          # Figure 3A-B
-        ├── fig4_cai.R                              # Figure 4A-B, Figure S1
+        ├── fig4_cai.R                              # Figure 4A-B
         ├── fig5_enc.R                              # Figure 5 and Figure S2A
         ├── fig6_na.R                               # Figure 6 and Figure S2B
         └── figS1_cai.R                             # Figure S1
